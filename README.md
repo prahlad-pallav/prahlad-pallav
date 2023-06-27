@@ -21,12 +21,21 @@ Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1GZqaAeOkX9KqeaAgUk71hlnc3cHd6VNR">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahlad-pallav&label=Profile%20views&color=0e75b6&style=flat" alt="prahlad-pallav" /> </p>
 
+
+- 💬 Let's talk about **Software Development**
+
 - 📫 How to reach me **prahladpallav147@gmail.com**
+
+<!--
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2038%20mins-red)
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prahladpallav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prahladpallav" height="30" width="40" /></a>
 <a href="https://instagram.com/prahlad_pallav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahlad_pallav" height="30" width="40" /></a>
+<a href="https://www.behance.net/prahladpallav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prahladpallav" height="30" width="40" /></a>
+<a href="https://medium.com/@prahladpallav147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prahladpallav147" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,4 +45,29 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prahlad-pallav&show_icons=true&locale=en" alt="prahlad-pallav" /></p>
 
+**🐱 My GitHub Data** 
+<!--
+> 🏆 9 Contributions in the Year 2023
+ > 
+> 📦 30.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 50 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ >
+> 
+-->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prahlad-pallav&" alt="prahlad-pallav" /></p>
+
+
+
+ Last Updated on 12:55 am
+Wednesday, 28 June 2023 (IST)
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+</div>
