@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![image](https://drive.google.com/uc?export=view&id=1fmEE9cZIYkrObiWpqJArbIV7FwLvlCGy)
+![image](https://drive.google.com/uc?export=view&id=10KvrSNlRdg8DPR4CVnsYitPqb4QB1xH9)
 <h1 align="center">Hi 👋, I'm Prahlad Pallav</h1>
 <h3 align="center">Incoming Research Engineer | Software Development | Financial Enthusiasts | IIT Delhi’23</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1GZqaAeOkX9KqeaAgUk71hlnc3cHd6VNR">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahlad-pallav&label=Profile%20views&color=0e75b6&style=flat" alt="prahlad-pallav" /> </p>
 
 - 📫 How to reach me **prahladpallav147@gmail.com**
