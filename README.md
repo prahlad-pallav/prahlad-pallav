@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 
  Last Updated on 5:49 am
-Wednesday, 30 June 2023 (IST)
+Friday, 30 June 2023 (IST)
 
 <div align="center">
 
