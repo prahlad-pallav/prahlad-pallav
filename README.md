@@ -66,6 +66,13 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prahlad-pallav&" alt="prahlad-pallav" /></p>
 
+<p>List of Deployed Projects</p>
+<ul>
+ <li>Password Generator -> https://passwordgenerator-prahlad.netlify.app/</li>
+ <li>New App -> https://newsapp-prahlad.netlify.app/</li>
+ <li>Weather DashBoard -> https://weatherdashboard-prahlad.netlify.app/</li>
+ <li>Form App -> https://formapp-prahlad.netlify.app/</li>
+</ul>
 
 
  Last Updated on 5:49 am
