@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prahlad-pallav&" alt="prahlad-pallav" /></p>
 
-<p>List of Deployed Projects</p>
+<p><b>List of Deployed Projects:)</b></p>
 <ul>
  <li>Password Generator -> https://passwordgenerator-prahlad.netlify.app/</li>
  <li>New App -> https://newsapp-prahlad.netlify.app/</li>
