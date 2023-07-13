@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahlad-pallav&label=Profile%20views&color=0e75b6&style=flat" alt="prahlad-pallav" /> </p>
 
 
-- 🔭 I’m currently working on **JavaScript Projects**
+- 🔭 I’m currently working on **React Projects**
 
 - 💬 Let's talk about **Software Development**
 
@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prahlad-pallav&show_icons=true&locale=en" alt="prahlad-pallav" /></p>
 -->
 
+<!--
 **🐱 My GitHub Data** 
 
 > 🏆 40 Contributions in the Year 2023
@@ -62,7 +63,7 @@ Here are some ideas to get you started:
 > 🔑 2 Private Repositories  
  >
 > 
-
+-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prahlad-pallav&" alt="prahlad-pallav" /></p>
 
@@ -75,8 +76,8 @@ Here are some ideas to get you started:
 </ul>
 
 
- Last Updated on 5:49 am
-Friday, 30 June 2023 (IST)
+ Last Updated on 11:16 am
+Thrusday, 13 July 2023 (IST)
 
 <div align="center">
 
