@@ -73,6 +73,7 @@ Here are some ideas to get you started:
  <li>New App -> https://newsapp-prahlad.netlify.app/</li>
  <li>Weather DashBoard -> https://weatherdashboard-prahlad.netlify.app/</li>
  <li>Form App -> https://formapp-prahlad.netlify.app/</li>
+ <li>SkillSage App -> https://skillsage-prahlad.netlify.app/</li>
 </ul>
 
 
