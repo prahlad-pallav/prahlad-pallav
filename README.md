@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prahlad-pallav&label=Profile%20views&color=0e75b6&style=flat" alt="prahlad-pallav" /> </p>
 
 
-- 🔭 I’m currently working on **React Projects**
+- 🔭 I’m currently working on **Backend Development**
 
 - 💬 Let's talk about **Software Development**
 
@@ -77,8 +77,8 @@ Here are some ideas to get you started:
 </ul>
 
 
- Last Updated on 11:16 am
-Thrusday, 13 July 2023 (IST)
+ Last Updated on 12:46 am
+Thrusday, 28 July 2023 (IST)
 
 <div align="center">
 
